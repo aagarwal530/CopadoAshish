@@ -4727,7 +4727,7 @@
     <recordTypeVisibilities>
         <default>true</default>
         <recordType>Contact.PersonAccountTest</recordType>
-        <visible>false</visible>
+        <visible>True</visible>
     </recordTypeVisibilities>
     <recordTypeVisibilities>
         <default>false</default>
