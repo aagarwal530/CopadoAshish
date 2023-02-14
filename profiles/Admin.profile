@@ -1983,7 +1983,8 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Individual.MasterRecordId</field>
+        <field>Individual.Master
+            Id</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -4721,12 +4722,12 @@
         <default>false</default>
         <personAccountDefault>true</personAccountDefault>
         <recordType>Account.PersonAccountTest</recordType>
-        <visible>true</visible>
+        <visible>false</visible>
     </recordTypeVisibilities>
     <recordTypeVisibilities>
         <default>true</default>
         <recordType>Contact.PersonAccountTest</recordType>
-        <visible>true</visible>
+        <visible>false</visible>
     </recordTypeVisibilities>
     <recordTypeVisibilities>
         <default>false</default>
@@ -4736,7 +4737,7 @@
     <recordTypeVisibilities>
         <default>false</default>
         <recordType>PersonAccount.PersonAccountTest1</recordType>
-        <visible>true</visible>
+        <visible>false</visible>
     </recordTypeVisibilities>
     <tabVisibilities>
         <tab>standard-Account</tab>
