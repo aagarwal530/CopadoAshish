@@ -4,5 +4,5 @@
         <members>Case.Test_New_Picklist__c</members>
         <name>CustomField</name>
     </types>
-    <version>57.0</version>
+    <version>58.0</version>
 </Package>
