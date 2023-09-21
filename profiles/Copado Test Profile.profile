@@ -4153,6 +4153,24 @@
         <object>AIPredictionEvent</object>
         <viewAllRecords>false</viewAllRecords>
     </objectPermissions>
+<objectPermissions>
+        <allowCreate>false</allowCreate>
+        <allowDelete>false</allowDelete>
+        <allowEdit>false</allowEdit>
+        <allowRead>True</allowRead>
+        <modifyAllRecords>false</modifyAllRecords>
+        <object>test_Object_for_Picklist__c</object>
+        <viewAllRecords>Yes</viewAllRecords>
+    </objectPermissions>
+<objectPermissions>
+        <allowCreate>false</allowCreate>
+        <allowDelete>false</allowDelete>
+        <allowEdit>false</allowEdit>
+        <allowRead>True</allowRead>
+        <modifyAllRecords>false</modifyAllRecords>
+        <object>Test_OwnerId_HistoryTracking__c</object>
+        <viewAllRecords>Yes</viewAllRecords>
+    </objectPermissions>
     <objectPermissions>
         <allowCreate>false</allowCreate>
         <allowDelete>false</allowDelete>
