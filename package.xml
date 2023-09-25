@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Case.Test_New_Picklist__c</members>
-        <name>CustomField</name>
+        <members>TestReport</members>
+        <members>TestReport/New_Test_Report_KSY</members>
+        <name>Report</name>
     </types>
-    <version>58.0</version>
+    <types>
+        <members>Test</members>
+        <name>ReportType</name>
+    </types>
+    <version>55.0</version>
 </Package>
