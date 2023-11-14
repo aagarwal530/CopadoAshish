@@ -1,0 +1,11 @@
+{
+    "CalculationMatrixColumn": "RangeAttributePricingMatrix_CalculationMatrixColumns.json",
+    "Description": "",
+    "GroupKey": "",
+    "Name": "RangeAttributePricingMatrix",
+    "SubGroupKey": "",
+    "Type": "Standard",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "CalculationMatrix",
+    "VlocityRecordSourceKey": "CalculationMatrix/RangeAttributePricingMatrix"
+}

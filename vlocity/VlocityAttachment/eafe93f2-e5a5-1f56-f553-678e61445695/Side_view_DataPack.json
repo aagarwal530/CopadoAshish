@@ -1,0 +1,23 @@
+{
+    "%vlocity_namespace%__Channel__c": "",
+    "%vlocity_namespace%__ContentType__c": "Image",
+    "%vlocity_namespace%__Description__c": "",
+    "%vlocity_namespace%__DisplayConditionsData__c": "",
+    "%vlocity_namespace%__GlobalKey__c": "eafe93f2-e5a5-1f56-f553-678e61445695",
+    "%vlocity_namespace%__IsDefaultImage__c": false,
+    "%vlocity_namespace%__IsPrivate__c": false,
+    "%vlocity_namespace%__ObjectId__c": {
+        "%vlocity_namespace%__GlobalKey__c": "1937aae8-e335-8696-851f-901243cb7dd9",
+        "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+        "VlocityLookupRecordSourceKey": "Product2/1937aae8-e335-8696-851f-901243cb7dd9",
+        "VlocityRecordSObjectType": "Product2"
+    },
+    "%vlocity_namespace%__ProductGroupKey__c": "b34cc0b1-979b-fe03-4f08-711aa5f75393",
+    "%vlocity_namespace%__SequenceNumber__c": 20,
+    "%vlocity_namespace%__UrlLong__c": "https://www.salesforce.com/content/dam/web/en_us/www/images/resources/training-images/Apple-iPhoneX-Silver.jpg",
+    "%vlocity_namespace%__Url__c": "",
+    "Name": "Side_view",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__VlocityAttachment__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__VlocityAttachment__c/eafe93f2-e5a5-1f56-f553-678e61445695"
+}

@@ -1,0 +1,116 @@
+[
+    {
+        "ApiName": "CharacteristicName",
+        "CalculationMatrixId": {
+            "Name": "AttributePricingMatrix",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrix/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "CalculationMatrix"
+        },
+        "ColumnType": "Input",
+        "DataType": "Text",
+        "DisplaySequence": 3,
+        "IsWildcardColumn": false,
+        "Name": "CharacteristicName",
+        "RangeValues": "",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixColumn",
+        "VlocityRecordSourceKey": "CalculationMatrixColumn/Generated-1599264107",
+        "WildcardColumnValue": ""
+    },
+    {
+        "ApiName": "CharacteristicValue",
+        "CalculationMatrixId": {
+            "Name": "AttributePricingMatrix",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrix/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "CalculationMatrix"
+        },
+        "ColumnType": "Input",
+        "DataType": "Text",
+        "DisplaySequence": 4,
+        "IsWildcardColumn": false,
+        "Name": "CharacteristicValue",
+        "RangeValues": "",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixColumn",
+        "VlocityRecordSourceKey": "CalculationMatrixColumn/Generated-306677396",
+        "WildcardColumnValue": ""
+    },
+    {
+        "ApiName": "MRC",
+        "CalculationMatrixId": {
+            "Name": "AttributePricingMatrix",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrix/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "CalculationMatrix"
+        },
+        "ColumnType": "Output",
+        "DataType": "Currency",
+        "DisplaySequence": 5,
+        "IsWildcardColumn": false,
+        "Name": "MRC",
+        "RangeValues": "",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixColumn",
+        "VlocityRecordSourceKey": "CalculationMatrixColumn/Generated-766557674",
+        "WildcardColumnValue": ""
+    },
+    {
+        "ApiName": "NRC",
+        "CalculationMatrixId": {
+            "Name": "AttributePricingMatrix",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrix/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "CalculationMatrix"
+        },
+        "ColumnType": "Output",
+        "DataType": "Currency",
+        "DisplaySequence": 6,
+        "IsWildcardColumn": false,
+        "Name": "NRC",
+        "RangeValues": "",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixColumn",
+        "VlocityRecordSourceKey": "CalculationMatrixColumn/Generated-1252743241",
+        "WildcardColumnValue": ""
+    },
+    {
+        "ApiName": "SourceProductCode",
+        "CalculationMatrixId": {
+            "Name": "AttributePricingMatrix",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrix/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "CalculationMatrix"
+        },
+        "ColumnType": "Input",
+        "DataType": "Text",
+        "DisplaySequence": 2,
+        "IsWildcardColumn": false,
+        "Name": "SourceProductCode",
+        "RangeValues": "",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixColumn",
+        "VlocityRecordSourceKey": "CalculationMatrixColumn/Generated-293343020",
+        "WildcardColumnValue": ""
+    },
+    {
+        "ApiName": "SourceProductName",
+        "CalculationMatrixId": {
+            "Name": "AttributePricingMatrix",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrix/AttributePricingMatrix",
+            "VlocityRecordSObjectType": "CalculationMatrix"
+        },
+        "ColumnType": "Input",
+        "DataType": "Text",
+        "DisplaySequence": 1,
+        "IsWildcardColumn": false,
+        "Name": "SourceProductName",
+        "RangeValues": "",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixColumn",
+        "VlocityRecordSourceKey": "CalculationMatrixColumn/Generated1525568535",
+        "WildcardColumnValue": ""
+    }
+]

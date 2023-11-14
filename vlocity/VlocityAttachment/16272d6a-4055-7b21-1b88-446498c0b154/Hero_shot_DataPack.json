@@ -1,0 +1,23 @@
+{
+    "%vlocity_namespace%__Channel__c": "",
+    "%vlocity_namespace%__ContentType__c": "Image",
+    "%vlocity_namespace%__Description__c": "",
+    "%vlocity_namespace%__DisplayConditionsData__c": "",
+    "%vlocity_namespace%__GlobalKey__c": "16272d6a-4055-7b21-1b88-446498c0b154",
+    "%vlocity_namespace%__IsDefaultImage__c": true,
+    "%vlocity_namespace%__IsPrivate__c": false,
+    "%vlocity_namespace%__ObjectId__c": {
+        "%vlocity_namespace%__GlobalKey__c": "1937aae8-e335-8696-851f-901243cb7dd9",
+        "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+        "VlocityLookupRecordSourceKey": "Product2/1937aae8-e335-8696-851f-901243cb7dd9",
+        "VlocityRecordSObjectType": "Product2"
+    },
+    "%vlocity_namespace%__ProductGroupKey__c": "b34cc0b1-979b-fe03-4f08-711aa5f75393",
+    "%vlocity_namespace%__SequenceNumber__c": 10,
+    "%vlocity_namespace%__UrlLong__c": "https://www.salesforce.com/content/dam/web/en_us/www/images/resources/training-images/iPhoneX.png",
+    "%vlocity_namespace%__Url__c": "",
+    "Name": "Hero_shot",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__VlocityAttachment__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__VlocityAttachment__c/16272d6a-4055-7b21-1b88-446498c0b154"
+}

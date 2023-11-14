@@ -1,0 +1,11 @@
+{
+    "CalculationMatrixColumn": "SourceTargetAttributePricingMatrix_CalculationMatrixColumns.json",
+    "Description": "",
+    "GroupKey": "",
+    "Name": "SourceTargetAttributePricingMatrix",
+    "SubGroupKey": "",
+    "Type": "Standard",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "CalculationMatrix",
+    "VlocityRecordSourceKey": "CalculationMatrix/SourceTargetAttributePricingMatrix"
+}
