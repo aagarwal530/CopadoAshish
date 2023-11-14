@@ -39,7 +39,7 @@
         "%vlocity_namespace%__Quantity__c": 1,
         "%vlocity_namespace%__UndoableMessage__c": "",
         "%vlocity_namespace%__UpdateScope__c": "Update Item Only",
-        "Name": "PromotionItem__ca35Hu00000KwW0p",
+        "Name": "PromotionItem__ca35Hu00000LoO2a",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__PromotionItem__c",
         "VlocityRecordSourceKey": "%vlocity_namespace%__PromotionItem__c/%vlocity_namespace%__Promotion__c/db0c1d07-8f65-d921-c232-5776d702a9e3/Product2/1937aae8-e335-8696-851f-901243cb7dd9"

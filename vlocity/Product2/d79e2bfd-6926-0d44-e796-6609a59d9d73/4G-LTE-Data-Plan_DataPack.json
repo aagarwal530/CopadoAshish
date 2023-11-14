@@ -15,7 +15,7 @@
                 "Code__c": "ACAT_Plans",
                 "Name": "Mobile Plans",
                 "displaySequence": 10,
-                "id": "a0JHu00000Pk66IMAR",
+                "id": "a0JHu00000T2KRSMA3",
                 "messages": [
                 ],
                 "productAttributes": {
@@ -23,7 +23,7 @@
                     ],
                     "records": [
                         {
-                            "attributeId": "a0KHu000018Po3IMAS",
+                            "attributeId": "a0KHu00001ksjOPMAY",
                             "cloneable": true,
                             "code": "ATT_RT_DP",
                             "dataType": "text",
@@ -95,7 +95,7 @@
                             ]
                         },
                         {
-                            "attributeId": "a0KHu000018Po3QMAS",
+                            "attributeId": "a0KHu00001ksjOXMAY",
                             "cloneable": true,
                             "code": "ATT_RT_NL",
                             "dataType": "number",
@@ -121,7 +121,7 @@
                             ]
                         },
                         {
-                            "attributeId": "a0KHu000018Po3PMAS",
+                            "attributeId": "a0KHu00001ksjOWMAY",
                             "cloneable": true,
                             "code": "ATT_DT_MPT",
                             "dataType": "text",

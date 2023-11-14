@@ -109,7 +109,7 @@
                 };
 
                 $scope.retrieveAttachments = function() {
-                    var attachmentId = '00PHu00002KCMBt';
+                    var attachmentId = '00PHu00002KCLcl';
                     sforce.connection.sessionId = '{!vlocAccessToken}';
                     sforce.connection.query( "SELECT Id, Name, Body, ContentType FROM Attachment WHERE Id = \'" + attachmentId + "\'", {
                         onSuccess: function(result){

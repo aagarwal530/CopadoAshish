@@ -1,5 +1,5 @@
 {
-    "%vlocity_namespace%__GlobalKey__c": "397d23e7-d497-ce42-fc9c-2d3e8775ccf9",
+    "%vlocity_namespace%__GlobalKey__c": "e692fb27-785e-da80-8e8a-cdcd37b7ab3b",
     "%vlocity_namespace%__OrchestrationItemCondition__c": "",
     "%vlocity_namespace%__OrchestrationItemDefinitionId__c": "",
     "%vlocity_namespace%__OrchestrationPlanDefinitionId__c": "",
@@ -8,13 +8,13 @@
     "%vlocity_namespace%__SystemId__c": "",
     "%vlocity_namespace%__SystemInterfaceId__c": "",
     "%vlocity_namespace%__ThorOrchestrationQueue__c": {
-        "%vlocity_namespace%__GlobalKey__c": "453f9083-0611-3d7f-f6f2-a2732bddf995",
+        "%vlocity_namespace%__GlobalKey__c": "699460dd-b9c5-8d2a-f465-8a328602942f",
         "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__ThorOrchestrationQueue__c/453f9083-0611-3d7f-f6f2-a2732bddf995",
+        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__ThorOrchestrationQueue__c/699460dd-b9c5-8d2a-f465-8a328602942f",
         "VlocityRecordSObjectType": "%vlocity_namespace%__ThorOrchestrationQueue__c"
     },
     "Name": "Default Normal Priority Queue",
     "VlocityDataPackType": "SObject",
     "VlocityRecordSObjectType": "%vlocity_namespace%__OrchestrationQueueAssignmentRule__c",
-    "VlocityRecordSourceKey": "%vlocity_namespace%__OrchestrationQueueAssignmentRule__c/397d23e7-d497-ce42-fc9c-2d3e8775ccf9"
+    "VlocityRecordSourceKey": "%vlocity_namespace%__OrchestrationQueueAssignmentRule__c/e692fb27-785e-da80-8e8a-cdcd37b7ab3b"
 }

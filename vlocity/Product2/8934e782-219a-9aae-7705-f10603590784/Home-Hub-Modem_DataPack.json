@@ -13,7 +13,7 @@
                 "Code__c": "ATT_CODE_IS",
                 "Name": "Internet Services",
                 "displaySequence": 30,
-                "id": "a0JHu00000Pk66FMAR",
+                "id": "a0JHu00000T2KRPMA3",
                 "messages": [
                 ],
                 "productAttributes": {
@@ -21,7 +21,7 @@
                     ],
                     "records": [
                         {
-                            "attributeId": "a0KHu000018Po37MAC",
+                            "attributeId": "a0KHu00001ksjOEMAY",
                             "cloneable": true,
                             "code": "ATT_RT_GR",
                             "dataType": "text",

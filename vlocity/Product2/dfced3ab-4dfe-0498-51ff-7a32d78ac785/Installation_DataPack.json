@@ -13,7 +13,7 @@
                 "Code__c": "ACAT_SVSLV",
                 "Name": "Services",
                 "displaySequence": 90,
-                "id": "a0JHu00000Pk66GMAR",
+                "id": "a0JHu00000T2KRQMA3",
                 "messages": [
                 ],
                 "productAttributes": {
@@ -21,7 +21,7 @@
                     ],
                     "records": [
                         {
-                            "attributeId": "a0KHu000018Po3AMAS",
+                            "attributeId": "a0KHu00001ksjOHMAY",
                             "cloneable": true,
                             "code": "ATT_RT_IT",
                             "dataType": "text",

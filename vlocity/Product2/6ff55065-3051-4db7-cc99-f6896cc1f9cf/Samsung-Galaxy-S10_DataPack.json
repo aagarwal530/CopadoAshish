@@ -18,7 +18,7 @@
                 "Code__c": "ACAT_Phones",
                 "Name": "Mobile Devices",
                 "displaySequence": 20,
-                "id": "a0JHu00000Pk66JMAR",
+                "id": "a0JHu00000T2KRTMA3",
                 "messages": [
                 ],
                 "productAttributes": {
@@ -26,7 +26,7 @@
                     ],
                     "records": [
                         {
-                            "attributeId": "a0KHu000018Po3YMAS",
+                            "attributeId": "a0KHu00001ksjOfMAI",
                             "cloneable": true,
                             "code": "ATT_RT_PAY_TYPE",
                             "dataType": "text",
@@ -47,7 +47,7 @@
                             "values": null
                         },
                         {
-                            "attributeId": "a0KHu000018Po3KMAS",
+                            "attributeId": "a0KHu00001ksjORMAY",
                             "cloneable": true,
                             "code": "ATT_DT_BRD",
                             "dataType": "text",
@@ -109,7 +109,7 @@
                             ]
                         },
                         {
-                            "attributeId": "a0KHu000018Po3JMAS",
+                            "attributeId": "a0KHu00001ksjOQMAY",
                             "cloneable": true,
                             "code": "ATT_RT_CLR",
                             "dataType": "text",
@@ -171,7 +171,7 @@
                             ]
                         },
                         {
-                            "attributeId": "a0KHu000018Po3LMAS",
+                            "attributeId": "a0KHu00001ksjOSMAY",
                             "cloneable": true,
                             "code": "ATT_DT_CAP",
                             "dataType": "text",
@@ -213,7 +213,7 @@
                             ]
                         },
                         {
-                            "attributeId": "a0KHu000018Po3MMAS",
+                            "attributeId": "a0KHu00001ksjOTMAY",
                             "cloneable": true,
                             "code": "ATT_RT_MOS",
                             "dataType": "text",
@@ -265,7 +265,7 @@
                             ]
                         },
                         {
-                            "attributeId": "a0KHu000018Po3OMAS",
+                            "attributeId": "a0KHu00001ksjOVMAY",
                             "cloneable": true,
                             "code": "ATT_DT_SZ",
                             "dataType": "text",

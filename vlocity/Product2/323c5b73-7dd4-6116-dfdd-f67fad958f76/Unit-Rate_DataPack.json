@@ -14,7 +14,7 @@
                 "Code__c": "ACAT_COMM_COMPONENT",
                 "Name": "Commodity Component",
                 "displaySequence": 110,
-                "id": "a0JHu00000Pk66MMAR",
+                "id": "a0JHu00000T2KRWMA3",
                 "messages": [
                 ],
                 "productAttributes": {
@@ -22,7 +22,7 @@
                     ],
                     "records": [
                         {
-                            "attributeId": "a0KHu000018Po3bMAC",
+                            "attributeId": "a0KHu00001ksjOiMAI",
                             "cloneable": true,
                             "code": "ATT_DIST_REGION",
                             "dataType": "text",
@@ -55,7 +55,7 @@
                 "Code__c": "ACAT_COMM_OFFER",
                 "Name": "Commodity Offer",
                 "displaySequence": 120,
-                "id": "a0JHu00000Pk66NMAR",
+                "id": "a0JHu00000T2KRXMA3",
                 "messages": [
                 ],
                 "productAttributes": {
@@ -63,7 +63,7 @@
                     ],
                     "records": [
                         {
-                            "attributeId": "a0KHu000018Po3fMAC",
+                            "attributeId": "a0KHu00001ksjOmMAI",
                             "cloneable": true,
                             "code": "ATT_PAYMENT_METHOD",
                             "dataType": "text",
