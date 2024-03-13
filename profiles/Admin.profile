@@ -4076,6 +4076,11 @@
         <field>test_Object_for_Picklist__c.testPicklist_field__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>test_Object_for_Picklist__c.testPicklist_field__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <layoutAssignments>
         <layout>Account-Account Layout</layout>
     </layoutAssignments>
