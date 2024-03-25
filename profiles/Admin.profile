@@ -428,6 +428,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Account.genji_field__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>AppointmentInvitation.AppointmentTopicId</field>
         <readable>true</readable>
     </fieldPermissions>
