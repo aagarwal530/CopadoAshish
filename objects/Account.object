@@ -534,6 +534,16 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>genji3__c</fullName>
+        <externalId>false</externalId>
+        <label>genji3</label>
+        <length>30</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>genji_field2__c</fullName>
         <externalId>false</externalId>
         <label>genji field2</label>
