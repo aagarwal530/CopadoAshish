@@ -1,8 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Account.genji3__c</members>
+        <members>Account.Region__c</members>
+        <members>Account.Zone__c</members>
+        <members>Lead.Region__c</members>
+        <members>Opportunity.Close_Region__c</members>
+        <members>Opportunity.StageName</members>
         <name>CustomField</name>
+    </types>
+    <types>
+        <members>Region</members>
+        <name>GlobalValueSet</name>
+    </types>
+    <types>
+        <members>Admin</members>
+        <members>Read Only</members>
+        <members>Standard</members>
+        <name>Profile</name>
     </types>
     <version>60.0</version>
 </Package>
