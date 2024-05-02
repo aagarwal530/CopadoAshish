@@ -383,6 +383,19 @@
         <type>Picklist</type>
     </fields>
     <fields>
+        <fullName>Region__c</fullName>
+        <description>Customer’s geographical region—for sales operations use only</description>
+        <externalId>false</externalId>
+        <label>Region</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetName>Region</valueSetName>
+        </valueSet>
+    </fields>
+    <fields>
         <fullName>SLAExpirationDate__c</fullName>
         <externalId>false</externalId>
         <label>SLA Expiration Date</label>
@@ -500,6 +513,107 @@
     <fields>
         <fullName>YearStarted</fullName>
         <trackFeedHistory>false</trackFeedHistory>
+    </fields>
+    <fields>
+        <fullName>Zone__c</fullName>
+        <description>Customer’s zone within the selected region—for sales operations use only.</description>
+        <externalId>false</externalId>
+        <inlineHelpText>In which zone is this customer based? Depends on region.</inlineHelpText>
+        <label>Zone</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Picklist</type>
+        <valueSet>
+            <controllingField>Region__c</controllingField>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>East Asia</fullName>
+                    <default>false</default>
+                    <label>East Asia</label>
+                </value>
+                <value>
+                    <fullName>Oceania</fullName>
+                    <default>false</default>
+                    <label>Oceania</label>
+                </value>
+                <value>
+                    <fullName>Southeast Asia</fullName>
+                    <default>false</default>
+                    <label>Southeast Asia</label>
+                </value>
+                <value>
+                    <fullName>Africa</fullName>
+                    <default>false</default>
+                    <label>Africa</label>
+                </value>
+                <value>
+                    <fullName>Europe</fullName>
+                    <default>false</default>
+                    <label>Europe</label>
+                </value>
+                <value>
+                    <fullName>Middle East</fullName>
+                    <default>false</default>
+                    <label>Middle East</label>
+                </value>
+                <value>
+                    <fullName>Mexico</fullName>
+                    <default>false</default>
+                    <label>Mexico</label>
+                </value>
+                <value>
+                    <fullName>UK + Ireland</fullName>
+                    <default>false</default>
+                    <label>UK + Ireland</label>
+                </value>
+                <value>
+                    <fullName>Caribbean</fullName>
+                    <default>false</default>
+                    <label>Caribbean</label>
+                </value>
+                <value>
+                    <fullName>Central America</fullName>
+                    <default>false</default>
+                    <label>Central America</label>
+                </value>
+                <value>
+                    <fullName>East Coast</fullName>
+                    <default>false</default>
+                    <label>East Coast</label>
+                </value>
+            </valueSetDefinition>
+            <valueSettings>
+                <controllingFieldValue>APAC</controllingFieldValue>
+                <valueName>East Asia</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>APAC</controllingFieldValue>
+                <valueName>East Coast</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>EMEA</controllingFieldValue>
+                <valueName>Europe</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>EMEA</controllingFieldValue>
+                <valueName>UK + Ireland</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>LATAM</controllingFieldValue>
+                <valueName>Oceania</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>LATAM</controllingFieldValue>
+                <valueName>Caribbean</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>Canada</controllingFieldValue>
+                <controllingFieldValue>US</controllingFieldValue>
+                <valueName>Central America</valueName>
+            </valueSettings>
+        </valueSet>
     </fields>
     <fields>
         <fullName>genji3__c</fullName>
