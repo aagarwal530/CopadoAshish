@@ -25,8 +25,8 @@ private class AccountAutomationsTest {
         
         // Test shipping address
         acc = AccountAutomations.setDefaultShippingAddress(acc);
-        System.assertEquals('111 W Illinois St', acc.ShippingStreet, 
-            'Default ShippingStreet should be 111 W Illinois St');
+        System.assertEquals('Vaishali Nagar', acc.ShippingStreet, 
+            'Default ShippingStreet should be Vaishali Nagar');
         System.assertEquals('Chicago', acc.ShippingState, 
             'Default ShippingState should be Chicago');
         System.assertEquals('60654', acc.ShippingPostalCode, 
