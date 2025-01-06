@@ -8,7 +8,7 @@ public class AccountAutomations {
     }
     
     public static Account setDefaultShippingAddress(Account a){
-        a.ShippingStreet = 'Vaishali Nagar'; 
+        a.ShippingStreet = '111 W Illinois St'; 
         a.ShippingState = 'Chicago';
         a.ShippingPostalCode = '60654';
         return a;
