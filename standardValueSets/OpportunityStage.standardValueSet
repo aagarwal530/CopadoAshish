@@ -83,9 +83,9 @@
         <won>true</won>
     </standardValue>
     <standardValue>
-        <fullName>Closed Lost</fullName>
+        <fullName>Test</fullName>
         <default>false</default>
-        <label>Closed Lost</label>
+        <label>Test</label>
         <closed>true</closed>
         <forecastCategory>Omitted</forecastCategory>
         <probability>0</probability>

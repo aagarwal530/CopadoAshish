@@ -348,6 +348,18 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>Copado_Picklist_Test__c</fullName>
+        <externalId>false</externalId>
+        <label>Copado Picklist Test</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetName>Global_Value_Set_Test</valueSetName>
+        </valueSet>
+    </fields>
+    <fields>
         <fullName>Department</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
@@ -524,6 +536,38 @@
         </filters>
         <label>New This Week</label>
     </listViews>
+    <recordTypes>
+        <fullName>PersonAccountTest</fullName>
+        <active>true</active>
+        <label>PersonAccountTest</label>
+        <picklistValues>
+            <picklist>Copado_Picklist_Test__c</picklist>
+            <values>
+                <fullName>Test1</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Test2</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Test3</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Test4</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Test5</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Test6</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+    </recordTypes>
     <searchLayouts>
         <customTabListAdditionalFields>FULL_NAME</customTabListAdditionalFields>
         <customTabListAdditionalFields>ACCOUNT.NAME</customTabListAdditionalFields>
