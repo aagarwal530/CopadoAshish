@@ -512,6 +512,37 @@
         <trackTrending>false</trackTrending>
     </fields>
     <fields>
+        <fullName>Test_New_Picklist__c</fullName>
+        <externalId>false</externalId>
+        <label>Test New Picklist</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>Test31</fullName>
+                    <default>false</default>
+                    <label>Test31</label>
+                </value>
+                <value>
+                    <fullName>Test32</fullName>
+                    <default>false</default>
+                    <label>Test32</label>
+                </value>
+                <value>
+                    <fullName>Test33</fullName>
+                    <default>false</default>
+                    <label>Test33</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <fields>
         <fullName>Type</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <trackHistory>true</trackHistory>
